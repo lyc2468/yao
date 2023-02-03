@@ -285,9 +285,9 @@
     {
       "name": "管理员",
       "type": "admin",
-      "email": "xiang@iqka.com",
+      "email": "admin@admin.com",
       "mobile": null,
-      "password": "A123456p+",
+      "password": "admin",
       "key": "8304925176",
       "secret": "XMTdNRVigbgUiAPdiJCfaWgWcz2PaQXw",
       "status": "enabled",
